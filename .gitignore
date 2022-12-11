@@ -17,6 +17,9 @@ __pycache__/
 # Ignore csv files
 *.csv
 
+# Ignore sqlite
+*.sqlite
+
 # Distribution / packaging
 .Python
 build/
