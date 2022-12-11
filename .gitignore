@@ -20,6 +20,11 @@ __pycache__/
 # Ignore sqlite
 *.sqlite
 
+# Others
+*.db
+.DS_Store
+
+
 # Distribution / packaging
 .Python
 build/
