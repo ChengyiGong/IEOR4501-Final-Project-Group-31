@@ -1,0 +1,30 @@
+
+# Ignore parquet files
+*.parquet
+
+# Ignore visualization files
+*.png
+*.jpeg
+*.svg
+
+# ignore shp
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.shp
+*.xml
+*.shx
+
+# Ignore csv files
+*.csv
+
+# Ignore sqlite
+*.sqlite
+
+# Others
+*.db
+.DS_Store
+
+# Pyre type checker
+.pyre/
