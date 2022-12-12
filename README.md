@@ -4,6 +4,8 @@ Group Name: IEOR 4501 Final Project Group 31
 
 UNIs: cg3355, sh4326
 
+Chengyi Gong was unable to commit and pull the change from local after multiple tries with multiple methods, thus asked Shaohan to commit and update the changes. This refers to the revision with SHA b9ff8a01ebbe0e3e745237005862884a1ccfb0f2.
+
 The packages of specific versions listed in `requirements.txt` are installed by the authors locally, but may not be required to be exact the same if you are about to run the codes on your own computer.
 
 ## Overview
@@ -34,11 +36,11 @@ We collected data from NYC taxi trips dataset, Uber rides dataset and NCEI weath
 
 5. Storing data
     - For every dataset we have collected, including taxi trips data, uber trips data, hourly weather data and daily weather data, we create a `Sqlite` database and store each dataset into corresponding tables through `sqlalchemy`.
-    - The table schema can be found in `schema.sql` and the datasets can be found in `project.db`.
+    - The table schema can be found in `schema.sql`.
 
 6. Understanding the Data
-    - We developed 6 SQL queries to help understand the datasets. For details, see **Part 3** in the notebook `Project.ipynb`.
-    - We developed 6 strands of functions to help visualize the datasets. For details, see **Part 4** in the notebook `Project.ipynb`.
+    - We developed 6 SQL queries to help understand the datasets. For details, see **Part 3** in the notebook `Project_P1.ipynb`.
+    - We developed 6 strands of functions to help visualize the datasets. For details, see **Part 4** in the notebook `Project_P1.ipynb`.
 
 7. Further analysis
     - We developed 1 animated plot to show the comovement of cumulative number of hired rides and precipitation.
