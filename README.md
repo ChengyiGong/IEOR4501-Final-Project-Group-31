@@ -4,7 +4,7 @@ Group Name: IEOR 4501 Final Project Group 31
 
 UNIs: cg3355, sh4326
 
-Chengyi Gong was unable to commit and pull the change from local after multiple tries with multiple methods, thus asked Shaohan to commit and update the changes. This refers to the revision with SHA b9ff8a01ebbe0e3e745237005862884a1ccfb0f2.
+Chengyi Gong was unable to commit and pull the change from local after multiple tries with multiple methods, thus asked Shaohan to commit and update the changes. This refers to the revision with SHA b9ff8a01ebbe0e3e745237005862884a1ccfb0f2. Specifically
 
 The packages of specific versions listed in `requirements.txt` are installed by the authors locally, but may not be required to be exact the same if you are about to run the codes on your own computer.
 
